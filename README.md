@@ -2,7 +2,7 @@
  
 # ¡Hola! 👋 Soy Bencomo Hernández, bienvenid@ a mi perfil de Github!
 
-![Banner](https://via.placeholder.com/800x200.png?text=Bienvenidos+a+mi+perfil) 
+![Banner](github-header-image.png) 
 
 🎯 **Sobre mí**  
 Soy un analista de datos apasionado por la tecnología, descubrir patrones ocultos en los datos y desarrollar modelos predictivos.  
