@@ -23,6 +23,6 @@ Soy un analista de datos apasionado por la tecnología, descubrir patrones ocult
 - [Cotizaciones de Apple](https://github.com/Bhdezm/Apple-Project): Predicción de las cotizaciones de Apple usando modelos de Machine Learning.
 - [Análisis de Ingresos](https://github.com/Bhdezm/Proyecto_marketing): Analisis de ingresos en marketing en Malasia.
 - [API Spotify](https://github.com/Bhdezm/Spotify): Analisis de los temas mas escuchados en un usuario de Spotify.
-- [Pygame](https://github.com/tuusuario/proyecto-ventas): Animación de una secuencia de imagenes en Pygame.
+- [Pygame](https://github.com/Bhdezm/pygame): Animación de una secuencia de imagenes en Pygame.
 
 🙏 ¡Gracias por visitar mi perfil! Espero que encuentres algo interesante aquí.  
